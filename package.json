@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "description": "A project focussing on react and react-router tools.",
+  "description": "Developed An Course Directory App with ReactJS and React-router tools.",
   "main": "index.js",
   "repository": "https://github.com/liamkande/Course-Directory-App-with-React.git",
   "author": "Liam Ansoumane Kande ",
