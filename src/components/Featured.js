@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 const Featured = () => {
 
@@ -7,7 +7,7 @@ const Featured = () => {
       <h2>Featured: </h2>
       <p>Introducing <strong></strong>, a teacher who loves teaching courses about <strong></strong>!</p>
     </div>
-  );
+  )
 }
 
-export default Featured;
+export default Featured
