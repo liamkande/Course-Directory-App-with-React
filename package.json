@@ -20,5 +20,6 @@
   "main": "index.js",
   "repository": "https://github.com/liamkande/Course-Directory-App-with-React.git",
   "author": "Liam Ansoumane Kande ",
+  "homepage": ".",
   "license": "ISC"
 }
